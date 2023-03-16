@@ -16,4 +16,3 @@ Student Recruitment
 ======
 <span style="color: blue">I am looking for self-motivated PhD, Master and Undergraduate students.</span> Don't hesitate to drop me an [email](mailto:linzh235@mail.sysu.edu.cn) with your CV if you are interested in reconfigurable and heterogeneous computing architectures, systems, programming models and design flows.
 
-#<span style="background-color: yellow"></span>
