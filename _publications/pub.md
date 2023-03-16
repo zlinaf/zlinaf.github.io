@@ -2,8 +2,8 @@
 permalink: /publications/pub
 title: "Publications"
 collection: publications
- 
 ---
+
 - [TCAD 2023] **Zhe Lin**, Tingyuan Liang, Jieru Zhao, Sharad Sinha and Wei Zhang. "[HL-Pow: Learning-Assisted Pre-RTL Power Modeling and Optimization for FPGA HLS](http://academicpages.github.io/files/TCAD23.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
 
 - [TCAD 2021] **Zhe Lin**, Sharad Sinha and Wei Zhang. "[Hard-ODT: Hardware-Friendly Online Decision Tree Learning Algorithm and System](http://academicpages.github.io/files/TCAD21.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, vol. 40, no. 11, pp. 2279-2292, 2021.
