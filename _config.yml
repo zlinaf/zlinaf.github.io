@@ -174,20 +174,20 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  recruitment:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _research
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
       layout: single
       author_profile: true
@@ -195,10 +195,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _recruitment
   - scope:
       path: ""
-      type: pages
+      type: recruitment
     values:
       layout: single
       author_profile: true
