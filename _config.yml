@@ -184,9 +184,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  recruitment:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,13 +206,6 @@ defaults:
       author_profile: true
       comments: true
       related: true
-  # _recruitment
-  - scope:
-      path: ""
-      type: recruitment
-    values:
-      layout: single
-      author_profile: true
   # _teaching
   - scope:
       path: ""
