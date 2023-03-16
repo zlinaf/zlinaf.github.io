@@ -14,6 +14,6 @@ He has broad research interests in emerging heterogeneous and reconfigurable com
 
 Student Recruitment
 ======
-<span style="color: blue">I am looking for self-motivated PhD, Master and Undergraduate students.</span> Please drop me an <span style="background-color: yellow; color: black">[email]</span>(mailto:linzh235@mail.sysu.edu.cn) with your CV if you are interested in reconfigurable and heterogeneous computing architectures, systems, programming models and design flows.
+<span style="color: blue">I am looking for self-motivated PhD, Master and Undergraduate students.</span> Please drop me an <h2 style="background-color: yellow; color: black">[email]</h2>(mailto:linzh235@mail.sysu.edu.cn) with your CV if you are interested in reconfigurable and heterogeneous computing architectures, systems, programming models and design flows.
 
 
