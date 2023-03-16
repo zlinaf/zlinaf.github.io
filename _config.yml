@@ -11,9 +11,9 @@ title                    : "Zhe Lin / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Zhe Lin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zlinaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,10 +75,10 @@ analytics:
 author:
   name             : "Zhe Lin"
   avatar           : "profile.png"
-  bio              : "Ph.D."
+  bio              : "Assistant Professor @ SYSU"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=RgK2ercAAAAJ"
   email            : "linzh235@mail.sysu.edu.cn"
   researchgate     :  
