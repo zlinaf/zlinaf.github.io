@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publications/pub
 title: "Publications"
 collection: publications
  
