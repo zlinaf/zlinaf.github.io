@@ -14,4 +14,4 @@ He has broad research interests in emerging heterogeneous and reconfigurable com
 
 Student Recruitment
 ======
-I am looking for self-motivated PhD, Master and Undergraduate students. Please send me an email with your CV if you are interested in reconfigurable and heterogeneous computing architectures, systems, programming models and design flows.
+<span style="color: blue">I am looking for self-motivated PhD, Master and Undergraduate students.</span> Please send me an email with your CV if you are interested in reconfigurable and heterogeneous computing architectures, systems, programming models and design flows.
