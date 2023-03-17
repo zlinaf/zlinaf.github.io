@@ -6,6 +6,4 @@ redirect_from:
   - /course/
 ---
 
-**TBD**
-
-Will be updated soon. Please come later.
+**TBD** --- Will be updated soon. Please come later.
