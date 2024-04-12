@@ -4,6 +4,14 @@ redirect_from:
   - /publications/
 ---
 
+- <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao*, **Zhe Lin***, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024. (*Corresponding author)
+
+- <span style="color: #4169E1">**[FPGA 2024]**</span> Chunyou Su, Linfeng Du, Tingyuan Liang, **Zhe Lin**, Maolin Wang, Sharad Sinha, Wei Zhang. "[GraFlex: Flexible Graph Processing on FPGAs through Customized Scalable Interconnection Network](https://dl.acm.org/doi/10.1145/3626202.3637573)." In *Prof. of ACM/SIGDA 32nd International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2024.
+
+- <span style="color: #4169E1">**[EuroSys 2024]**</span> Yijia Zhang, Qiang Wang, **Zhe Lin**, Pengxiang Xu, Bingqiang Wang. "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance." In *Proc. of The 19th European Conference on Computer Systems (EuroSys)*, 2024.
+
+- <span style="color: #4169E1">**[DAC 2023]**</span> Guan Shen, Jieru Zhao, Zeke Wang, **Zhe Lin**, Wenchao Ding, Chentao Wu, Quan Chen and Minyi Guo. "[MARS: Exploiting Multi-Level Parallelism for DNN Workloads on Adaptive Multi-Accelerator Systems](https://ieeexplore.ieee.org/abstract/document/10247992/)." In *Proc. of ACM/IEEE 60th Design Automation Conference (DAC)*, 2023.
+
 - <span style="color: #4169E1">**[TCAD 2023]**</span> **Zhe Lin**, Tingyuan Liang, Jieru Zhao, Sharad Sinha and Wei Zhang. "[HL-Pow: Learning-Assisted Pre-RTL Power Modeling and Optimization for FPGA HLS](http://zlinaf.github.io/files/TCAD23.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
 
 - <span style="color: #4169E1">**[TCAD 2021]**</span> **Zhe Lin**, Sharad Sinha and Wei Zhang. "[Hard-ODT: Hardware-Friendly Online Decision Tree Learning Algorithm and System](http://zlinaf.github.io/files/TCAD21.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, vol. 40, no. 11, pp. 2279-2292, 2021.
