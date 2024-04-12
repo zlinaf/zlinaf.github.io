@@ -4,7 +4,7 @@ redirect_from:
   - /publications/
 ---
 
-- <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao*, **Zhe Lin**&#9733, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024. (*Corresponding author)
+- <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao *, **Zhe Lin** *, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024. (*Corresponding author)
 
 - <span style="color: #4169E1">**[FPGA 2024]**</span> Chunyou Su, Linfeng Du, Tingyuan Liang, **Zhe Lin**, Maolin Wang, Sharad Sinha, Wei Zhang. "[GraFlex: Flexible Graph Processing on FPGAs through Customized Scalable Interconnection Network](https://dl.acm.org/doi/10.1145/3626202.3637573)." In *Prof. of ACM/SIGDA 32nd International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2024.
 
