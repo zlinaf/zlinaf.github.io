@@ -28,6 +28,4 @@ redirect_from:
 
 - <span style="color: #4169E1">**[FPL 2017]**</span> **Zhe Lin**, Wei Zhang and Sharad Sinha. "[Decision Tree Based Hardware Power Monitoring for Run Time Dynamic Power Management in FPGA](http://zlinaf.github.io/files/FPL17.pdf)." In *Proc. of IEEE International Conference on Field Programmable Logic and Applications (FPL)*, pp. 1-8, 2017.
 
-- <span style="color: #4169E1">**[DAC 2023]**</span> Guan Shen, Jieru Zhao, Zeke Wang, **Zhe Lin**, Wenchao Ding, Chentao Wu, Quan Chen and Minyi Guo. "MARS: Exploiting Multi-Level Parallelism for DNN Workloads on Adaptive Multi-Accelerator Systems." In *Proc. of Design Automation Conference (DAC)*, to appear, 2023.
-
 - <span style="color: #4169E1">**[KDD 2021]**</span> Xunqiang Jiang, Tianrui Jia, Yuan Fang, Chuan Shi, **Zhe Lin** and Hui Wang. "Pre-training on Large-Scale Heterogeneous Graph." In *Proc. of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD)*, 2021.
