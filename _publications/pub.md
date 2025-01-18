@@ -7,7 +7,7 @@ redirect_from:
 - <span style="color: #4169E1">**[FPGA 2025]**</span> Enlai Li, **Zhe Lin**, Sharad Sinha, Wei Zhang. "TAPCA: An Interface-Aware Cache Management Framework for Task Partitioning on CPU-FPGA SoC Platforms." In *Proc. of International Symposium on Field-Programmable
 Gate Arrays (FPGA)*, 2025.
 
-- <span style="color: #4169E1">**[ICCD 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Minyi Guo. "[AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs](https://arxiv.org/pdf/2407.18333)." In *Proc. of IEEE International Conference on Computer Design (ICCD)*, 2024. (*Corresponding author) <span style="color: red"> **Best Paper Award Nomination** </span>
+- <span style="color: #4169E1">**[ICCD 2024]**</span> Mingzhe Gao, Jieru Zhao\∗, **Zhe Lin**\*, Wenchao Ding, Xiaofeng Hou, Yu Feng, Chao Li, Minyi Guo. "[AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs](https://arxiv.org/pdf/2407.18333)." In *Proc. of IEEE International Conference on Computer Design (ICCD)*, 2024. (*Corresponding author) <span style="color: red"> **Best Paper Award Nomination** </span>
 
 - <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024. (*Corresponding author)
 
