@@ -4,9 +4,9 @@ redirect_from:
   - /publications/
 ---
 
-- <span style="color: #4169E1">**[DAC 2025]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai, Kang Zhao\*. "[HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design]." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[DAC 2025]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai, Kang Zhao\*. "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
 
-- <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai, Kang Zhao\*. "[VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration]." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai, Kang Zhao\*. "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
 
 - <span style="color: #4169E1">**[FPGA 2025]**</span> Enlai Li, **Zhe Lin**, Sharad Sinha, Wei Zhang. "TAPCA: An Interface-Aware Cache Management Framework for Task Partitioning on CPU-FPGA SoC Platforms." In *Proc. of International Symposium on Field-Programmable
 Gate Arrays (FPGA)*, 2025.
