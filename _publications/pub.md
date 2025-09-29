@@ -8,8 +8,6 @@ redirect_from:
 
 - <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai, Kang Zhao\*. "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
 
-Jiawei Liang; Linfeng Du; Xiaofeng Zhou; Zhe Lin; Jiang Xu; Wei Zhang
-
 - <span style="color: #4169E1">**[DAC 2025]**</span> Jiawei Liang, Linfeng Du, Xiaofeng Zhou, **Zhe Lin**, Jiang Xu, Wei Zhang. "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
 
 - <span style="color: #4169E1">**[FPGA 2025]**</span> Enlai Li, **Zhe Lin**, Sharad Sinha, Wei Zhang. "TAPCA: An Interface-Aware Cache Management Framework for Task Partitioning on CPU-FPGA SoC Platforms." In *Proc. of International Symposium on Field-Programmable
