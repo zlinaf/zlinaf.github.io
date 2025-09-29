@@ -8,6 +8,10 @@ redirect_from:
 
 - <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai, Kang Zhao\*. "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
 
+Jiawei Liang; Linfeng Du; Xiaofeng Zhou; Zhe Lin; Jiang Xu; Wei Zhang
+
+- <span style="color: #4169E1">**[DAC 2025]**</span> Jiawei Liang, Linfeng Du, Xiaofeng Zhou, **Zhe Lin**, Jiang Xu, Wei Zhang. "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
+
 - <span style="color: #4169E1">**[FPGA 2025]**</span> Enlai Li, **Zhe Lin**, Sharad Sinha, Wei Zhang. "TAPCA: An Interface-Aware Cache Management Framework for Task Partitioning on CPU-FPGA SoC Platforms." In *Proc. of International Symposium on Field-Programmable
 Gate Arrays (FPGA)*, 2025.
 
@@ -20,8 +24,6 @@ Gate Arrays (FPGA)*, 2025.
 - <span style="color: #4169E1">**[FPGA 2024]**</span> Chunyou Su, Linfeng Du, Tingyuan Liang, **Zhe Lin**, Maolin Wang, Sharad Sinha, Wei Zhang. "[GraFlex: Flexible Graph Processing on FPGAs through Customized Scalable Interconnection Network](https://dl.acm.org/doi/10.1145/3626202.3637573)." In *Prof. of ACM/SIGDA 32nd International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2024.
 
 - <span style="color: #4169E1">**[EuroSys 2024]**</span> Yijia Zhang, Qiang Wang, **Zhe Lin**, Pengxiang Xu, Bingqiang Wang. "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance." In *Proc. of The 19th European Conference on Computer Systems (EuroSys)*, 2024.
-
-- <span style="color: #4169E1">**[DAC 2023]**</span> Guan Shen, Jieru Zhao, Zeke Wang, **Zhe Lin**, Wenchao Ding, Chentao Wu, Quan Chen and Minyi Guo. "[MARS: Exploiting Multi-Level Parallelism for DNN Workloads on Adaptive Multi-Accelerator Systems](https://ieeexplore.ieee.org/abstract/document/10247992/)." In *Proc. of ACM/IEEE 60th Design Automation Conference (DAC)*, 2023.
 
 - <span style="color: #4169E1">**[TCAD 2023]**</span> **Zhe Lin**, Tingyuan Liang, Jieru Zhao, Sharad Sinha and Wei Zhang. "[HL-Pow: Learning-Assisted Pre-RTL Power Modeling and Optimization for FPGA HLS](http://zlinaf.github.io/files/TCAD23.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
 
