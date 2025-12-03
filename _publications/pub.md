@@ -6,7 +6,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* denotes corresponding author.
 
-<span style="font-size:20px; color:darkred; font-weight:bold;"> 2026 </span>
+<span style="font-size:32px; color:darkred; font-weight:bold;"> 2026 </span>
 
 - <span style="color: #4169E1">**[DATE 2026]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
