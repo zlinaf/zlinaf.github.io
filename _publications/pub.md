@@ -6,6 +6,8 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* denotes corresponding author.
 
+<span style="color:darkred;"> 2026 </span>
+
 - <span style="color: #4169E1">**[DATE 2026]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
 - <span style="color: #4169E1">**[ASP-DAC 2026]**</span> Zibo Hu, **Zhe Lin**\*, Renjing Hou, Xingyu Qin, Jianwang Zhai, Kang Zhao\*. "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis." In *Proc. of IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
