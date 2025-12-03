@@ -4,7 +4,7 @@ redirect_from:
   - /publications/
 ---
 
-- <span style="color: #4169E1">**[DATE 2025]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026. (*Corresponding author)
+- <span style="color: #4169E1">**[DATE 2026]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026. (*Corresponding author)
 
 - <span style="color: #4169E1">**[TCAD 2025]**</span> Sen Yan, Kuangxun Huang, Kang Zhao, **Zhe Lin**\*. "Accurate, Efficient and Scalable Power Modeling for FPGA HLS." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025. (*Corresponding author)
   
