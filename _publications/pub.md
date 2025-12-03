@@ -4,26 +4,32 @@ redirect_from:
   - /publications/
 ---
 
-- <span style="color: #4169E1">**[DATE 2026]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026. (*Corresponding author)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* denotes corresponding author.
 
-- <span style="color: #4169E1">**[TCAD 2025]**</span> Sen Yan, Kuangxun Huang, Kang Zhao, **Zhe Lin**\*. "Accurate, Efficient and Scalable Power Modeling for FPGA HLS." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[DATE 2026]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
+
+- <span style="color: #4169E1">**[ASP-DAC 2026]**</span> Zibo Hu, **Zhe Lin**\*, Renjing Hou, Xingyu Qin, Jianwang Zhai, Kang Zhao\*. "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis." In *Proc. of IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
+
+- <span style="color: #4169E1">**[TCAD 2025]**</span> Sen Yan, Kuangxun Huang, Kang Zhao, **Zhe Lin**\*. "Accurate, Efficient and Scalable Power Modeling for FPGA HLS." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2025.
   
-- <span style="color: #4169E1">**[ICCAD 2025]**</span> Zefan Lin, Zedong Peng, Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*. "HIPPO: A Hierarchy-Preserving and Noise-Tolerant Pre-HLS Power Modeling Framework for FPGA." In *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[ICCAD 2025]**</span> Zefan Lin, Zedong Peng, Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*. "HIPPO: A Hierarchy-Preserving and Noise-Tolerant Pre-HLS Power Modeling Framework for FPGA." In *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2025.
 
-- <span style="color: #4169E1">**[ICPADS 2025]**</span> Kuangxun Huang, Xiao Yun, Lihe Liang, **Zhe Lin**\*. "DARE: Towards Maximized Bandwidth Utilization of Dynamic Bandwidth Allocation for Next-Generation Passive Optical Networks." In *Proc. of International Conference on Parallel and Distributed Systems (ICPADS)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[ICPADS 2025]**</span> Kuangxun Huang, Xiao Yun, Lihe Liang, **Zhe Lin**\*. "DARE: Towards Maximized Bandwidth Utilization of Dynamic Bandwidth Allocation for Next-Generation Passive Optical Networks." In *Proc. of International Conference on Parallel and Distributed Systems (ICPADS)*, 2025.
 
-- <span style="color: #4169E1">**[DAC 2025]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai and Kang Zhao\*. "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[FPT 2025]**</span> Liyang Dou, **Zhe Lin**\*, Kai Shi, Xinya Luan, Kang Zhao\*. "An End-to-End Tool Flow with Intrinsic-Level Kernel Optimization on Versal ACAP." In *Proc. of International Conference on Field Programmable Technology (FPT)*, 2025.
 
-- <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai and Kang Zhao\*. "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025. (*Corresponding author)
+- <span style="color: #4169E1">**[DAC 2025]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai and Kang Zhao\*. "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
+
+- <span style="color: #4169E1">**[DAC 2025]**</span> Kai Shi, **Zhe Lin**\*, Xinya Luan, Jianwang Zhai and Kang Zhao\*. "VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
 
 - <span style="color: #4169E1">**[DAC 2025]**</span> Jiawei Liang, Linfeng Du, Xiaofeng Zhou, **Zhe Lin**, Jiang Xu and Wei Zhang. "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
 
 - <span style="color: #4169E1">**[FPGA 2025]**</span> Enlai Li, **Zhe Lin**, Sharad Sinha and Wei Zhang. "TAPCA: An Interface-Aware Cache Management Framework for Task Partitioning on CPU-FPGA SoC Platforms." In *Proc. of International Symposium on Field-Programmable
 Gate Arrays (FPGA)*, 2025.
 
-- <span style="color: #4169E1">**[ICCD 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Wenchao Ding, Xiaofeng Hou, Yu Feng, Chao Li, Minyi Guo. "[AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs](https://arxiv.org/pdf/2407.18333)." In *Proc. of IEEE International Conference on Computer Design (ICCD)*, 2024. (*Corresponding author) <span style="color: red"> **Best Paper Award Nomination** </span>
+- <span style="color: #4169E1">**[ICCD 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Wenchao Ding, Xiaofeng Hou, Yu Feng, Chao Li, Minyi Guo. "[AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs](https://arxiv.org/pdf/2407.18333)." In *Proc. of IEEE International Conference on Computer Design (ICCD)*, 2024. <span style="color: red"> **Best Paper Award Nomination** </span>
 
-- <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024. (*Corresponding author)
+- <span style="color: #4169E1">**[DATE 2024]**</span> Mingzhe Gao, Jieru Zhao\*, **Zhe Lin**\*, Minyi Guo. "[Hierarchical Source-to-Post-Route QoR Prediction in High-Level Synthesis with GNNs](https://arxiv.org/abs/2401.08696)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2024.
 
 - <span style="color: #4169E1">**[ICCAD 2024]**</span> Jiawei Liu, Jianwang Zhai, Mingyu Zhao, **Zhe Lin**, Bei Yu, Chuan Shi. "[PolarGate: Breaking the Functionality Representation Bottleneck of And-Inverter Graph Neural Network](https://www.cse.cuhk.edu.hk/~byu/papers/C233-ICCAD2024-PolarGate.pdf)." In *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2024.
 
