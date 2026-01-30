@@ -74,7 +74,7 @@ As the architecture complexity, integration density and chip size of modern inte
   margin: 20px auto;
 ">
 
-<span class="title-blue"> Topic 2: Automated Power and Performance Co-Optimization of ICs</span>
+<span class="title-blue"> Topic 2: Automated Power, Performance and Area Co-Optimization of ICs</span>
 ======
 
 <p class="justify"> 
