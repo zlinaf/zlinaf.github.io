@@ -130,9 +130,17 @@ Reconfigurable and heterogeneous computing paradigm addresses this challenge by 
 Building on this platform, we develop two specialized accelerators: HeteroSVD and VSpGEMM. HeteroSVD is a heterogeneous reconfigurable accelerator for singular value decomposition (SVD) computations on Versal ACAP, leveraging multiple processing engines for efficient matrix factorization. VSpGEMM is a hardware accelerator specifically designed and optimized for sparse general matrix-matrix multiplication (SpGEMM) on Versal ACAP, achieving high performance for sparse linear algebra workloads. Together, these accelerators demonstrate the potential of reconfigurable and heterogeneous computing to tackle modern computation-intensive applications with both flexibility and efficiency.
 <\p>
 
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
+    <img src="http://zlinaf.github.io/images/versal-arch.png" style="max-width: 40%;">
+    <img src="http://zlinaf.github.io/images/versal-tiling.png" style="max-width: 60%;">
+</div>
+
 ---------------------------------------------------------
 <p class="justify"> 
 <strong>2. FPGA+CPU Heterogeneous System Prototyping</strong>. Modern multicore systems are migrating from homogeneous systems to heterogeneous systems with accelerator-based computing in order to overcome the barriers of performance and power walls. In this trend, FPGA-based accelerators are becoming increasingly attractive, due to their excellent flexibility and low design cost. We propose the architectural support for efficient interfacing between FPGA-based multi-accelerators and chip-multiprocessors (CMPs) connected through the network-on-chip (NoC). Distributed packet receivers and hierarchical packet senders are designed to maintain scalability and reduce the critical path delay under a heavy task load. A dedicated accelerator chaining mechanism is also proposed to facilitate intra-FPGA data reuse among accelerators to circumvent prohibitive communication overhead between the FPGA and processors. In order to evaluate the proposed architecture, a complete system emulation with programmability support is performed using FPGA prototyping. Experimental results demonstrate that the proposed architecture has high-performance, and is light-weight and scalable in characteristics. 
+<\p>
+  
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
-    <img src="http://zlinaf.github.io/images/cpu-fpga.png" style="max-width: 100%;">
+    <img src="http://zlinaf.github.io/images/tmscs-overall.png" style="max-width: 50%;">
+    <img src="http://zlinaf.github.io/images/tmscs-comm.png" style="max-width: 50%;">
 </div>
