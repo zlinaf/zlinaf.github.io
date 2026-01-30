@@ -44,7 +44,7 @@ redirect_from:
     border-radius: 8px;
     background-color: #f9f9f9;
   ">
-    <img src="http://zlinaf.github.io/images/photo-groupvisit1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <img src="http://zlinaf.github.io/images/photo-visit1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
     <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Group visit at Huawei.</div>
   </div>
 
