@@ -36,9 +36,9 @@ As the architecture complexity, integration density and chip size of modern inte
 <strong>1. HLS-Based Power Modeling of Digital Circuits</strong>. We propose PowerGear, a graph-learning-assisted power estimation approach for high-level synthesis (HLS), which features high accuracy, efficiency, scalability, transferability, and applicability. PowerGear comprises two main components: a graph construction flow and a customized graph neural network (GNN) model. In the graph construction flow, PowerGear introduces buffer insertion, datapath merging, graph trimming and feature annotation techniques to transform HLS designs into graph-structured data, which encode both intra-operation micro-architectures and inter-operation interconnects annotated with switching activities. Additionally, PowerGear incorporates cross-function graph integration, dataflow adaptation, and design scaling strategies that make it compatible with multi-kernel, computation-intensive and large-scale applications. Furthermore, we propose a novel power-aware heterogeneous edge-centric GNN model, which effectively learns heterogeneous edge semantics and structural properties of the constructed graphs via edge-centric neighborhood aggregation, and eventually fits the formulation of dynamic power. Compared with on-board measurement, PowerGear shows average errors of 3.60% and 8.81% in total and dynamic power estimation, respectively, while the evaluation efficiency is improved by 41.9x. Moreover, PowerGear supports large-scale and dataflow-optimized neural networks with an error of only 3.91%, demonstrating broad applicability. Finally, PowerGear facilitates design space exploration for FPGA HLS, leading to a performance gain of up to 11.2%, compared with methods using state-of-the-art predictive models.
 </p> 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> 
-  <img src="http://zlinaf.github.io/images/powergear-overall.png" width="50%"> 
-  <img src="http://zlinaf.github.io/images/powergear-graphconstruction.png" width="50%"> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 100%;"> 
+  <img src="http://zlinaf.github.io/images/powergear-overall.png" style="max-width: 60%;"> 
+  <img src="http://zlinaf.github.io/images/powergear-graphconstruction.png" style="max-width: 40%;"> 
 </div>
 
 ---------------------------------------------------------
@@ -59,7 +59,7 @@ As the architecture complexity, integration density and chip size of modern inte
 <strong>3. Run-Time Power Monitoring and Management</strong>. We study in-situ monitoring of FPGA power consumption at run time. We propose and evaluate a power monitoring scheme capable of accurately estimating the dynamic power of FPGA designs in a fine-grained timescale during onboard execution. Customized computer-aided design (CAD) flows are devised for power modeling either offline or online. Traditional decision trees and customized model ensemble strategies are deployed for power model establishment with offline sampling, while online decision trees are used for simultaneous power inference and training with real-time sample collection. Following this, we introduce the light-weight and scalable realization of the developed models, which can be integrated into the target applications for FPGA dynamic power monitoring at run time. The novel power monitoring techniques open up new opportunities for real-time FPGA power management in both coarse-grained and fine-grained timescales.
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 100%;">
   <img src="http://zlinaf.github.io/images/insitu-overall.png" style="max-width: 80%;">
   <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
@@ -84,20 +84,11 @@ High-level synthesis (HLS) streamlines accelerator customization by delivering a
 <strong>1. Large-Scale Design Space Exploration</strong>. Design space exploration (DSE) serves as a promising solution to HLS optimization, but existing studies on DSE suffer from a lack of efficiency or generalization capability in large-scale application scenarios. To address this problem, we propose AutoShrink, a DSE engine that automatically and adaptively shrinks the large search space of an HLS design to gradually retain only high-quality solutions. AutoShrink incorporates: (1) a comprehensive design space pruning strategy that integrates domain knowledge and consolidates the joint effect of directives; and (2) an importance-guided Pareto optimization algorithm that dynamically tracks the importance ranking of the applied directives and leverages this ranking to effectively steer the search toward Pareto-optimal solutions. Experimental results demonstrate that AutoShrink efficiently achieves a close approximation of the Pareto frontier across diverse benchmarks with design spaces scaling up to 10^16, which attains an average deviation of only 8.1%, outperforming three generic optimization methods and three state-of-the-art customized approaches by 5.73x and 4.47x, respectively.
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> 
-  <img src="http://zlinaf.github.io/images/autoshrink-overall.png" width="50%"> 
-  <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" width="50%"> 
-</div>
-
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
     <img src="http://zlinaf.github.io/images/autoshrink-overall.png" style="max-width: 40%;" alt="图1">
     <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" style="max-width: 60%;"  alt="图2">
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
-    <img src="image1.jpg" style="width: 49%; height: auto;" alt="图1">
-    <img src="image2.jpg" style="width: 49%; height: auto;" alt="图2">
-</div>
 
 
 
