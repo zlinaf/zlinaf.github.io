@@ -19,13 +19,9 @@ redirect_from:
 }
 </style>
 
-<hr style="
-  border: 0;
-  height: 16px;
-  background: url('data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' viewBox=\\'0 0 1440 28\\'><path fill=\\'%234169E1\\' fill-opacity=\\'1\\' d=\\'M0,16L60,21.3C120,27,240,37,360,42.7C480,48,600,48,720,42.7C840,37,960,27,1080,26.7C1200,27,1320,37,1380,42.7L1440,48L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z\\'></path></svg>') repeat-x;
-  background-size: contain;
-  background-position: center;
-">
+<p align="center">
+  <img src="https://i.imgur.com/7rUuWwB.png" width="80%">
+</p>
 
 <span class="title-blue"> Topic 1: Early-Stage Power Modeling for Digital Circuits and Systems</span>
 ======
@@ -66,9 +62,10 @@ As the architecture complexity, integration density and chip size of modern inte
   <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
 
+<p align="center">
+  <img src="https://i.imgur.com/7rUuWwB.png" width="80%">
+</p>
 
-
-<br>
 <span class="title-blue"> Topic 2: Automated Power and Performance Co-Optimization of ICs</span>
 ======
 
