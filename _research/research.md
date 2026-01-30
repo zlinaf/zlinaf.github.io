@@ -21,8 +21,8 @@ As the architecture complexity, integration density and chip size of modern inte
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="http://zlinaf.github.io/images/powergear-overall.png" style="max-height: 200px;">
-  <img src="http://zlinaf.github.io/images/powergear-graphconstruction.png" style="max-height: 200px;">
+  <img src="http://zlinaf.github.io/images/powergear-overall.png" width="50%">
+  <img src="http://zlinaf.github.io/images/powergear-graphconstruction.png" width="50%">
 </div>
 
 ---------------------------------------------------------
