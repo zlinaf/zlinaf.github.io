@@ -81,8 +81,13 @@ High-level synthesis (HLS) streamlines accelerator customization by delivering a
 
 ---------------------------------------------------------
 <p class="justify"> 
-<strong>3. Large-Scale Design Space Exploration</strong>. Design space exploration (DSE) serves as a promising solution to HLS optimization, but existing studies on DSE suffer from a lack of efficiency or generalization capability in large-scale application scenarios. To address this problem, we propose AutoShrink, a DSE engine that automatically and adaptively shrinks the large search space of an HLS design to gradually retain only high-quality solutions. AutoShrink incorporates: (1) a comprehensive design space pruning strategy that integrates domain knowledge and consolidates the joint effect of directives; and (2) an importance-guided Pareto optimization algorithm that dynamically tracks the importance ranking of the applied directives and leverages this ranking to effectively steer the search toward Pareto-optimal solutions. Experimental results demonstrate that AutoShrink efficiently achieves a close approximation of the Pareto frontier across diverse benchmarks with design spaces scaling up to 10^16, which attains an average deviation of only 8.1%, outperforming three generic optimization methods and three state-of-the-art customized approaches by 5.73x and 4.47x, respectively.
+<strong>1. Large-Scale Design Space Exploration</strong>. Design space exploration (DSE) serves as a promising solution to HLS optimization, but existing studies on DSE suffer from a lack of efficiency or generalization capability in large-scale application scenarios. To address this problem, we propose AutoShrink, a DSE engine that automatically and adaptively shrinks the large search space of an HLS design to gradually retain only high-quality solutions. AutoShrink incorporates: (1) a comprehensive design space pruning strategy that integrates domain knowledge and consolidates the joint effect of directives; and (2) an importance-guided Pareto optimization algorithm that dynamically tracks the importance ranking of the applied directives and leverages this ranking to effectively steer the search toward Pareto-optimal solutions. Experimental results demonstrate that AutoShrink efficiently achieves a close approximation of the Pareto frontier across diverse benchmarks with design spaces scaling up to 10^16, which attains an average deviation of only 8.1%, outperforming three generic optimization methods and three state-of-the-art customized approaches by 5.73x and 4.47x, respectively.
 </p>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> 
+  <img src="http://zlinaf.github.io/images/autoshrink-overall.png" width="50%"> 
+  <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" width="50%"> 
+</div>
 
 
 
