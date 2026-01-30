@@ -19,6 +19,13 @@ redirect_from:
 }
 </style>
 
+<hr style="
+  border: 0;
+  height: 16px;
+  background: url('data:image/svg+xml;utf8,<svg xmlns=\\'http://www.w3.org/2000/svg\\' viewBox=\\'0 0 1440 28\\'><path fill=\\'%234169E1\\' fill-opacity=\\'1\\' d=\\'M0,16L60,21.3C120,27,240,37,360,42.7C480,48,600,48,720,42.7C840,37,960,27,1080,26.7C1200,27,1320,37,1380,42.7L1440,48L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z\\'></path></svg>') repeat-x;
+  background-size: contain;
+  background-position: center;
+">
 
 <span class="title-blue"> Topic 1: Early-Stage Power Modeling for Digital Circuits and Systems</span>
 ======
@@ -59,12 +66,18 @@ As the architecture complexity, integration density and chip size of modern inte
   <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
 
+
+
 <br>
-
-
 <span class="title-blue"> Topic 2: Automated Power and Performance Co-Optimization of ICs</span>
 ======
 
-<p align="center"> <img src="https://zlinaf.github.io/images/dt-acc2.png"> </p> <p class="justify"> Decision trees are machine learning models commonly used in various application scenarios. In the era of big data, traditional decision tree induction algorithms are not suitable for learning large-scale datasets due to their stringent data storage requirement. Online decision tree learning algorithms have been devised to tackle this problem by concurrently training with incoming samples and providing inference results. </p> <p class="justify"> However, even the most up-to-date online tree learning algorithms still suffer from either high memory usage or high computational intensity with dependency and long latency, making them challenging to implement in hardware. To overcome these challenges, we introduce a new quantile-based algorithm to improve the induction of the Hoeffding tree, one of the state-of-the-art online learning models. </p> <p class="justify"> The proposed algorithm is light-weight in terms of both memory and computational demand, while still maintaining high generalization ability. A series of optimization techniques dedicated to the proposed algorithm have been investigated from the hardware perspective, including coarse-grained and fine-grained parallelism, dynamic and memory-based resource sharing, pipelining with data forwarding. We further present a high-performance, hardware-efficient and scalable online decision tree learning system on a field-programmable gate array (FPGA) with system-level optimization techniques. </p>
-CPU+FPGA Heterogeneous System Prototyping
-<p align="center"> <img src="http://zlinaf.github.io/images/cpu-fpga.png" height="500"> </p> <p class="justify"> Modern multicore systems are migrating from homogeneous systems to heterogeneous systems with accelerator-based computing in order to overcome the barriers of performance and power walls. In this trend, FPGA-based accelerators are becoming increasingly attractive, due to their excellent flexibility and low design cost. </p> <p class="justify"> In this project, we propose the architectural support for efficient interfacing between FPGA-based multi-accelerators and chip-multiprocessors (CMPs) connected through the network-on-chip (NoC). Distributed packet receivers and hierarchical packet senders are designed to maintain scalability and reduce the critical path delay under a heavy task load. </p> <p class="justify"> A dedicated accelerator chaining mechanism is also proposed to facilitate intra-FPGA data reuse among accelerators to circumvent prohibitive communication overhead between the FPGA and processors. In order to evaluate the proposed architecture, a complete system emulation with programmability support is performed using FPGA prototyping. Experimental results demonstrate that the proposed architecture has high performance, and is light-weight and scalable in characteristics. </p> ```
+High-level synthesis (HLS) streamlines accelerator customization by delivering a high-level hardware programming paradigm enriched with a variety of optimization directives. However, the quality of HLS designs is largely determined by the selection of directives in navigating trade-offs among multiple design metrics, a non-trivial process that can significantly prolong design turnaround time. Moreover, the inability of power gating makes it even more difficult to optimize power from the perspective of HLS. We seek to co-optimize power and performance of ICs from high-level architectural abstractions.
+
+---------------------------------------------------------
+<p class="justify"> 
+<strong>3. Large-Scale Design Space Exploration</strong>. Design space exploration (DSE) serves as a promising solution to HLS optimization, but existing studies on DSE suffer from a lack of efficiency or generalization capability in large-scale application scenarios. To address this problem, we propose AutoShrink, a DSE engine that automatically and adaptively shrinks the large search space of an HLS design to gradually retain only high-quality solutions. AutoShrink incorporates: (1) a comprehensive design space pruning strategy that integrates domain knowledge and consolidates the joint effect of directives; and (2) an importance-guided Pareto optimization algorithm that dynamically tracks the importance ranking of the applied directives and leverages this ranking to effectively steer the search toward Pareto-optimal solutions. Experimental results demonstrate that AutoShrink efficiently achieves a close approximation of the Pareto frontier across diverse benchmarks with design spaces scaling up to 10^16, which attains an average deviation of only 8.1%, outperforming three generic optimization methods and three state-of-the-art customized approaches by 5.73x and 4.47x, respectively.
+</p>
+
+
+
