@@ -15,7 +15,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/simplelightbox@2.12.1/dist/simple-lightbox.min.js"></script>
 
 <!-- 轮播容器 -->
-<div class="glide" style="max-width:600px; margin:0 auto;">
+<div class="glide" style="max-width:1000px; margin:0 auto;">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
 
