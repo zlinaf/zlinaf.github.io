@@ -6,6 +6,8 @@ redirect_from:
   - /research/
 ---
 
+
+
 Early-Stage Power Modeling for Digital Circuits and Systems
 ======
 
