@@ -18,7 +18,7 @@ Early-Stage Power Modeling for Digital Circuits and Systems
   <img src="http://zlinaf.github.io/images/hippo-hierarchy.png"  height="200">
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="http://zlinaf.github.io/images/hippo-overall.png" width="45%" />
   <img src="http://zlinaf.github.io/images/hippo-hierarchy.png" width="45%" />
 </div>
