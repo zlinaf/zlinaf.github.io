@@ -19,10 +19,13 @@ redirect_from:
 }
 </style>
 
-
-<p align="center">
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
-</p>
+<hr style="
+  border: none;
+  border-top: 3px double #4169E1;
+  height: 0;
+  width: 60%;
+  margin: 20px auto;
+">
 
 <span class="title-blue"> Topic 1: Early-Stage Power Modeling for Digital Circuits and Systems</span>
 ======
