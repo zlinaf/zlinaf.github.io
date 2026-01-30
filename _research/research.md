@@ -20,7 +20,9 @@ redirect_from:
 </style>
 
 
-✦✦✦✦✦✦✦✦✦✦
+<p align="center">
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+</p>
 
 <span class="title-blue"> Topic 1: Early-Stage Power Modeling for Digital Circuits and Systems</span>
 ======
@@ -61,7 +63,9 @@ As the architecture complexity, integration density and chip size of modern inte
   <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
 
-✦✦✦✦✦✦✦✦✦✦
+<p align="center">
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+</p>
 
 <span class="title-blue"> Topic 2: Automated Power and Performance Co-Optimization of ICs</span>
 ======
