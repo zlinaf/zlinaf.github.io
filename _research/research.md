@@ -101,3 +101,38 @@ High-level synthesis (HLS) streamlines accelerator customization by delivering a
 
 
 
+<br>
+
+<hr style="
+  border: none;
+  border-top: 3px double #4169E1;
+  height: 0;
+  width: 100%;
+  margin: 20px auto;
+">
+
+<span class="title-blue"> Topic 3: Reconfigurable and Heterogeneous Computing Paradigm</span>
+======
+<p class="justify"> 
+Modern computing workloads, particularly in artificial intelligence, signal processing, and edge computing, are increasingly diverse and demand high performance, energy efficiency, and flexibility. Traditional homnogeneous processors (CPUs and GPUs) struggle to meet these requirements simultaneously: CPUs offer programmability but limited parallelism, while GPUs provide high throughput but are inefficient for irregular or latency-sensitive tasks.
+<\p>
+  
+<p class="justify"> 
+Reconfigurable and heterogeneous computing paradigm addresses this challenge by combining multiple specialized computing resources, such as FPGAs, NPUs, and CPUs, into a holistic system. This approach allows workloads to be dynamically mapped to the most suitable hardware, optimizing performance, power consumption, and resource utilization. Reconfigurable logic, in particular, enables rapid adaptation to evolving algorithms without incurring the high cost and inflexibility of custom ICs. We seek to develop advanced reconfigurable and heterogeneous computing architectures, high-performance programming models and compilers, automated hardware-software co-design techniques, and efficient accelerators for modern applications.
+<\p>
+
+---------------------------------------------------------
+<p class="justify"> 
+<strong>1. Application Optimization on AMD Versal ACAP</strong>. The AMD Versal Adaptive Compute Acceleration Platform (ACAP) integrates scalar engines (CPUs), adaptable hardware logics (FPGA), and AI engines (AIEs/NPUs) on a single chip, allowing developers to exploit fine-grained heterogeneity and reconfigurability. With Versal ACAP, complex workloads can achieve high throughput and low latency by leveraging the right combination of processing engines while maintaining the flexibility to evolve with changing algorithms. In essence, reconfigurable and heterogeneous platforms like Versal ACAP unlock performance and efficiency levels that traditional homogeneous architectures cannot reach, making them crucial for next-generation computing applications.
+<\p>
+
+<p class="justify"> 
+Building on this platform, we develop two specialized accelerators: HeteroSVD and VSpGEMM. HeteroSVD is a heterogeneous reconfigurable accelerator for singular value decomposition (SVD) computations on Versal ACAP, leveraging multiple processing engines for efficient matrix factorization. VSpGEMM is a hardware accelerator specifically designed and optimized for sparse general matrix-matrix multiplication (SpGEMM) on Versal ACAP, achieving high performance for sparse linear algebra workloads. Together, these accelerators demonstrate the potential of reconfigurable and heterogeneous computing to tackle modern computation-intensive applications with both flexibility and efficiency.
+<\p>
+
+---------------------------------------------------------
+<p class="justify"> 
+<strong>2. FPGA+CPU Heterogeneous System Prototyping</strong>. Modern multicore systems are migrating from homogeneous systems to heterogeneous systems with accelerator-based computing in order to overcome the barriers of performance and power walls. In this trend, FPGA-based accelerators are becoming increasingly attractive, due to their excellent flexibility and low design cost. We propose the architectural support for efficient interfacing between FPGA-based multi-accelerators and chip-multiprocessors (CMPs) connected through the network-on-chip (NoC). Distributed packet receivers and hierarchical packet senders are designed to maintain scalability and reduce the critical path delay under a heavy task load. A dedicated accelerator chaining mechanism is also proposed to facilitate intra-FPGA data reuse among accelerators to circumvent prohibitive communication overhead between the FPGA and processors. In order to evaluate the proposed architecture, a complete system emulation with programmability support is performed using FPGA prototyping. Experimental results demonstrate that the proposed architecture has high-performance, and is light-weight and scalable in characteristics. 
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
+    <img src="http://zlinaf.github.io/images/cpu-fpga.png" style="max-width: 100%;">
+</div>
