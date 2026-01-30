@@ -55,8 +55,8 @@ As the architecture complexity, integration density and chip size of modern inte
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="http://zlinaf.github.io/images/insitu-overall.png" style="max-height: 200px;">
-  <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-height: 200px;">
+  <img src="http://zlinaf.github.io/images/insitu-overall.png" style="max-width: 80%;">
+  <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
 
 <br>
