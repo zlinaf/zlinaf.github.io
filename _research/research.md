@@ -8,7 +8,7 @@ redirect_from:
 
 <br>
 
-Early-Stage Power Modeling for Digital Circuits and Systems
+<span style="color: #4169E1">Early-Stage Power Modeling for Digital Circuits and Systems</span>
 ======
 
 As the architecture complexity, integration density and chip size of modern integrated circuits (IC) continue to grow, the importance of power efficiency increases and ICs' power consumption is turning out to be one of the pivotal design objectives. In this project, we seek opportunities to model power consumption of digital circuits and systems. Specifically, we investigate the power modeling techniques from design time to run time. These techniques are compatible with each other, and putting it all together, they can jointly facilitate the advancements of power savings in both design-time hardware construction and real-time application execution.
