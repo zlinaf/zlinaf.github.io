@@ -6,8 +6,6 @@ redirect_from:
   - /research/
 ---
 
-<br>
-
 <style>
 /* ===== Global Styles ===== */
 .title-blue {
