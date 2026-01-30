@@ -1,6 +1,7 @@
 ---
 title: "Gallery"
 collection: gallery
+permalink: /gallery/gallery
 redirect_from: 
   - /gallery/
 ---
