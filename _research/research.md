@@ -89,5 +89,11 @@ High-level synthesis (HLS) streamlines accelerator customization by delivering a
   <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" width="50%"> 
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; max-width: 100%;">
+    <img src="http://zlinaf.github.io/images/autoshrink-overall.png" style="height: 300px; width: auto; max-width: 49%;" alt="图1">
+    <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" style="height: 300px; width: auto; max-width: 49%;" alt="图2">
+</div>
+
+
 
 
