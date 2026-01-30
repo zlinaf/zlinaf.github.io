@@ -85,11 +85,19 @@ High-level synthesis (HLS) streamlines accelerator customization by delivering a
 </p>
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
-    <img src="http://zlinaf.github.io/images/autoshrink-overall.png" style="max-width: 40%;" alt="图1">
-    <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" style="max-width: 60%;"  alt="图2">
+    <img src="http://zlinaf.github.io/images/autoshrink-overall.png" style="max-width: 40%;">
+    <img src="http://zlinaf.github.io/images/autoshrink-pruning.png" style="max-width: 60%;">
 </div>
 
+---------------------------------------------------------
+<p class="justify"> 
+<strong>2. Automated Clock Management of HLS Designs</strong>. HLS tools streamline FPGA design by allowing engineers to implement hardware using C/C++ languages. However, clock management, a critical stage in the FPGA EDA flow that directly impacts system-level performance, area, and especially power consumption, remains inadequately addressed in existing commercial HLS tools. The diversity of available clock resources creates a vast design space for optimal configurations, and insufficient analysis of multiple clock domain scenarios hinders effective clock-oriented optimizations. To address these challenges, we introduce AutoClock, an open-source integrated clock management framework that complements AMD Vitis HLS. AutoClock manages clock generation resources, assigns modules to appropriate clock domains, mitigates metastability and time-division multiplexing (TDM) issues arising in multi-clock domain architectures, and hierarchically gates module clocks. Experimental results demonstrate that AutoClock maximizes FPGA clock resource utilization and reduces dynamic power consumption by up to 74.38%.
+</p>
 
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
+    <img src="http://zlinaf.github.io/images/autoclock-overall.png" style="max-width: 50%;">
+    <img src="http://zlinaf.github.io/images/autoclock-cdc.png" style="max-width: 50%;">
+</div>
 
 
 
