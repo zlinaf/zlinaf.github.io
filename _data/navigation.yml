@@ -8,3 +8,6 @@ main:
     
   - title: "Course"
     url: /course/
+
+  - title: "Gallery"
+    url: /gallery/
