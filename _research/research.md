@@ -63,6 +63,8 @@ As the architecture complexity, integration density and chip size of modern inte
   <img src="http://zlinaf.github.io/images/insitu-modeling.png" style="max-width: 20%;">
 </div>
 
+<br>
+
 <p align="center">
 ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
 </p>
