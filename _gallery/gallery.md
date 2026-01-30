@@ -22,8 +22,8 @@ redirect_from:
     border-radius: 8px;
     background-color: #f9f9f9;
   ">
-    <img src="img1.png" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">图片1标题或说明</div>
+    <img src="http://zlinaf.github.io/images/photo-groupdinner3.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Group dinner.</div>
   </div>
 
   <div style="
@@ -33,8 +33,8 @@ redirect_from:
     border-radius: 8px;
     background-color: #f9f9f9;
   ">
-    <img src="img2.png" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">图片2标题或说明</div>
+    <img src="http://zlinaf.github.io/images/photo-groupdinner1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Group dinner.</div>
   </div>
 
   <div style="
@@ -44,8 +44,8 @@ redirect_from:
     border-radius: 8px;
     background-color: #f9f9f9;
   ">
-    <img src="img3.png" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">图片3标题或说明</div>
+    <img src="http://zlinaf.github.io/images/photo-groupvisit1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Group visit at Huawei.</div>
   </div>
 
   <div style="
@@ -55,8 +55,41 @@ redirect_from:
     border-radius: 8px;
     background-color: #f9f9f9;
   ">
-    <img src="img4.png" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
-    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">图片4标题或说明</div>
+    <img src="http://zlinaf.github.io/images/photo-talk1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Talk at ISEDA 2025.</div>
+  </div>
+
+  <div style="
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  ">
+    <img src="http://zlinaf.github.io/images/photo-talk2.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Talk at Huawei.</div>
+  </div>
+
+  <div style="
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  ">
+    <img src="http://zlinaf.github.io/images/photo-graduation2.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Sen Yan's undergraduate graduation.</div>
+  </div>
+
+  <div style="
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  ">
+    <img src="http://zlinaf.github.io/images/photo-graduation1.jpg" style="width: 200px; height: auto; object-fit: contain; border-radius: 4px;">
+    <div style="margin-top: 8px; font-size: 14px; color: #333; font-weight: bold;">Binghao Cheng's undergraduate graduation.</div>
   </div>
 
 </div>
