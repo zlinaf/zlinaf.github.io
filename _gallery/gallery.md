@@ -72,7 +72,15 @@ redirect_from:
   }).mount();
 
   // Lightbox 初始化
-  var lightbox = new SimpleLightbox('.glide__slide a', { captions: true, captionDelay: 250 });
+  var lightbox = new SimpleLightbox('.glide__slide a', {
+  captions: true,
+  captionDelay: 250,
+  close: true,
+  nav: true,
+  overlay: true,
+  scrollZoom: false // 防止 Lightbox 弹出时滚动跳动
+  });
+
 </script>
 
 <!-- 响应式 -->
