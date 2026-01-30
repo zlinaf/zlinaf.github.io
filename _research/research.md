@@ -23,7 +23,7 @@ redirect_from:
   border: none;
   border-top: 3px double #4169E1;
   height: 0;
-  width: 60%;
+  width: 100%;
   margin: 20px auto;
 ">
 
