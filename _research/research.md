@@ -131,7 +131,7 @@ Building on this platform, we develop two specialized accelerators: HeteroSVD an
 </p>
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 100%;">
-    <img src="http://zlinaf.github.io/images/versal-arch.png" style="max-width: 40%;">
+    <img src="http://zlinaf.github.io/images/versal-arch.jpg" style="max-width: 40%;">
     <img src="http://zlinaf.github.io/images/versal-tiling.png" style="max-width: 60%;">
 </div>
 
