@@ -40,14 +40,14 @@ redirect_from:
         <a href="http://zlinaf.github.io/images/photo-groupdinner1.jpg" title="Group dinner3">
           <img src="http://zlinaf.github.io/images/photo-groupdinner1.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
-        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Group dinner at winter 2025.</div>
+        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Group dinner at spring 2025.</div>
       </li>
 
       <li class="glide__slide" style="text-align:center;">
         <a href="http://zlinaf.github.io/images/photo-groupdinner2.jpg" title="Group dinner4">
           <img src="http://zlinaf.github.io/images/photo-groupdinner2.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
-        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Group dinner at winter 2025.</div>
+        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Group dinner at spring 2025.</div>
       </li>
 
       <li class="glide__slide" style="text-align:center;">
