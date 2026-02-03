@@ -68,14 +68,14 @@ redirect_from:
         <a href="http://zlinaf.github.io/images/photo-graduation2.jpg" title="graduation2">
           <img src="http://zlinaf.github.io/images/photo-graduation2.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
-        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Sen Yan's undergraduate ceremony.</div>
+        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Sen Yan's undergraduate graduation ceremony.</div>
       </li>
 
       <li class="glide__slide" style="text-align:center;">
         <a href="http://zlinaf.github.io/images/photo-graduation1.jpg" title="graduation1">
           <img src="http://zlinaf.github.io/images/photo-graduation1.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
-        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Binghao Cheng's undergraduate ceremony.</div>
+        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Binghao Cheng's undergraduate graduation ceremony.</div>
       </li>
 
       <!-- 可继续添加更多图片 -->
