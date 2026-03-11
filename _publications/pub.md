@@ -12,7 +12,7 @@ redirect_from:
 
 - <span style="color: #4169E1">**[ICC]**</span> Lihe Liang, Xiao Yun, Kuangxun Huang, **Zhe Lin**\*, Zhongfeng Wang\*. "JIMI: A Hierarchical Partition-Refinement MIQP Framework for Jitter Minimization in PONs." In *Proc. of IEEE International Conference on Communications (ICC)*, 2026.
 
-- <span style="color: #4169E1">**[ASP-DAC]**</span> Zibo Hu, **Zhe Lin**\*, Renjing Hou, Xingyu Qin, Jianwang Zhai, Kang Zhao\*. "HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis." In *Proc. of IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
+- <span style="color: #4169E1">**[ASP-DAC]**</span> Zibo Hu, **Zhe Lin**\*, Renjing Hou, Xingyu Qin, Jianwang Zhai, Kang Zhao\*. "[HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis](https://ieeexplore.ieee.org/document/11420333)." In *Proc. of IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
 
 <span style="font-size:24px; color:darkorange; font-weight:bold;"> 2025 </span>
 
