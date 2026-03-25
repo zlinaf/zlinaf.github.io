@@ -22,7 +22,7 @@ redirect_from:
 
 - <span style="color: #4169E1">**[ICPADS]**</span> Kuangxun Huang, Xiao Yun, Lihe Liang, **Zhe Lin**\*. "[DARE: Towards Maximized Bandwidth Utilization of Dynamic Bandwidth Allocation for Next-Generation Passive Optical Networks](https://ieeexplore.ieee.org/abstract/document/11323085)." In *Proc. of International Conference on Parallel and Distributed Systems (ICPADS)*, 2025.
 
-- <span style="color: #4169E1">**[FPT]**</span> Liyang Dou, **Zhe Lin**\*, Kai Shi, Xinya Luan, Kang Zhao\*. "An End-to-End Tool Flow with Intrinsic-Level Kernel Optimization on Versal ACAP." In *Proc. of International Conference on Field Programmable Technology (FPT)*, 2025.
+- <span style="color: #4169E1">**[FPT]**</span> Liyang Dou, **Zhe Lin**\*, Kai Shi, Xinya Luan, Kang Zhao\*. "[An End-to-End Tool Flow with Intrinsic-Level Kernel Optimization on Versal ACAP](https://ieeexplore.ieee.org/abstract/document/11363907)." In *Proc. of International Conference on Field Programmable Technology (FPT)*, 2025.
 
 - <span style="color: #4169E1">**[DAC]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai and Kang Zhao\*. "[HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design](https://ieeexplore.ieee.org/abstract/document/11132878/)." In *Proc. of ACM/IEEE 62nd Design Automation Conference (DAC)*, 2025.
 
