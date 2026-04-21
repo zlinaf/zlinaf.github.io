@@ -8,7 +8,9 @@ redirect_from:
 
 <span style="font-size:24px; color:darkorange; font-weight:bold;"> 2026 </span>
 
+<p style="text-align: justify;">
 - <span style="color: #4169E1">**[TRETS]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Liyang Dou, Jianwang Zhai, Kang Zhao. "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis." In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, 2026.
+</p>
 
 - <span style="color: #4169E1">**[DATE]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
