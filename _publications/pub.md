@@ -10,11 +10,13 @@ redirect_from:
 
 - <span style="color: #4169E1">**[TRETS]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Liyang Dou, Jianwang Zhai, Kang Zhao. "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis." In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, 2026.
 
-- <span style="color: #4169E1">**[DATE]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
+- <span style="color: #4169E1">**[DATE]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "[AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs](https://ieeexplore.ieee.org/document/11539637)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
 - <span style="color: #4169E1">**[ICC]**</span> Lihe Liang, Xiao Yun, Kuangxun Huang, **Zhe Lin**\*, Zhongfeng Wang\*. "JIMI: A Hierarchical Partition-Refinement MIQP Framework for Jitter Minimization in PONs." In *Proc. of IEEE International Conference on Communications (ICC)*, 2026.
 
 - <span style="color: #4169E1">**[ASP-DAC]**</span> Zibo Hu, **Zhe Lin**\*, Renjing Hou, Xingyu Qin, Jianwang Zhai, Kang Zhao\*. "[HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis](https://ieeexplore.ieee.org/document/11420333)." In *Proc. of IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2026.
+
+- <span style="color: #4169E1">**[TCAD]**</span> Kai Shi, **Zhe Lin**, Xinya Luan, Jianwang Zhai, Kang Zhao. "[FVSpGEMM: A Comprehensive Framework for Exploiting Versal ACAP in High-Performance SpGEMM Acceleration](https://ieeexplore.ieee.org/abstract/document/11568823)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.
 
 <span style="font-size:24px; color:darkorange; font-weight:bold;"> 2025 </span>
 
