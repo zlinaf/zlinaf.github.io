@@ -10,6 +10,8 @@ redirect_from:
 
 - <span style="color: #4169E1">**[TRETS]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Liyang Dou, Jianwang Zhai, Kang Zhao. "[AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis](https://dl.acm.org/doi/10.1145/3832319)." In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, 2026.
 
+- <span style="color: #4169E1">**[CJE]**</span> Zebin Wu, **Zhe Lin**\*, Yonghong Tian. "[PowerMG: Early-stage dynamic power estimation in HLS FPGA via multi-grained GNN information](https://ieeexplore.ieee.org/document/11595422)." In *Chinese Journal of Electronics*, 2026.
+
 - <span style="color: #4169E1">**[DATE]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "[AutoShrink: Adaptive Search Space Shrinkage for Large-Scale Pareto Optimization of HLS Designs](https://ieeexplore.ieee.org/document/11539637)." In *Proc. of Design, Automation and Test in Europe Conference (DATE)*, 2026.
 
 - <span style="color: #4169E1">**[ICC]**</span> Lihe Liang, Xiao Yun, Kuangxun Huang, **Zhe Lin**\*, Zhongfeng Wang\*. "[JIMI: A Hierarchical Partition-Refinement MIQP Framework for Jitter Minimization in PONs](https://ieeexplore.ieee.org/document/11588228)." In *Proc. of IEEE International Conference on Communications (ICC)*, 2026.
