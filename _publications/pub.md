@@ -14,7 +14,7 @@ redirect_from:
 
 - <span style="color: #4169E1">**[TRETS]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Liyang Dou, Jianwang Zhai, Kang Zhao. "[AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis](https://dl.acm.org/doi/10.1145/3832319)." In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, 2026.
 
-- <span style="color: #4169E1">**[TCAD]**</span> Xinya Luan, **Zhe Lin**, Kai Shi, Jianwang Zhai, Kang Zhao\*. "[HeteroSVD+: Efficient SVD Accelerator on Versal ACAP with Hardware-Aware Design](https://ieeexplore.ieee.org/document/11695205)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.
+- <span style="color: #4169E1">**[TCAD]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Jianwang Zhai, Kang Zhao\*. "[HeteroSVD+: Efficient SVD Accelerator on Versal ACAP with Hardware-Aware Design](https://ieeexplore.ieee.org/document/11695205)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.
 
 - <span style="color: #4169E1">**[CJE]**</span> Zebin Wu, **Zhe Lin**\*, Yonghong Tian. "[PowerMG: Early-Stage Dynamic Power Estimation in HLS FPGA via Multi-Grained GNN Information](https://ieeexplore.ieee.org/document/11595422)." In *Chinese Journal of Electronics*, 2026.
 
