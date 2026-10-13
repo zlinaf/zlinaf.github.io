@@ -10,6 +10,8 @@ redirect_from:
 
 - <span style="color: #4169E1">**[TCAD]**</span> **Zhe Lin**, Zefan Lin, Jieru Zhao\*. "[Domain-Transferable and Hierarchy-Preserving Power Prediction for Pre-HLS FPGA Designs](https://ieeexplore.ieee.org/document/11673950)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2026.
 
+- <span style="color: #4169E1">**[TODAES]**</span> Yingxin Zeng, Binghao Cheng, Jianwang Zhai, Kang Zhao, **Zhe Lin**\*. "AutoShrink 2.0: Automating Large-Scale Pareto Optimization in HLS via Adaptive and Cost-Aware Search Space Shrinkage." In *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, 2026.
+
 - <span style="color: #4169E1">**[JLT]**</span> Kuangxun Huang, Lihe Liang, Xiao Yun, **Zhe Lin**\*. "[Algorithm-Hardware Co-Design for Bandwidth-Efficient DBA in Next-Generation PONs](https://ieeexplore.ieee.org/document/11668682)." In *IEEE/Optica Journal of Lightwave Technology (JLT)*, 2026.
 
 - <span style="color: #4169E1">**[TRETS]**</span> Xinya Luan, **Zhe Lin**\*, Kai Shi, Liyang Dou, Jianwang Zhai, Kang Zhao. "[AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis](https://dl.acm.org/doi/10.1145/3832319)." In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, 2026.
