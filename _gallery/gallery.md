@@ -23,7 +23,7 @@ redirect_from:
       <!-- 格式：<li class="glide__slide"> <a href="大图URL" title="标题"> <img src="缩略图URL"> </a> <div>说明</div> </li> -->
 
       <li class="glide__slide" style="text-align:center;">
-        <a href="http://zlinaf.github.io/images/photo-groupdinner4.jpg" title="Teacher day1">
+        <a href="http://zlinaf.github.io/images/photo-teacherday1.jpg" title="Teacher day1">
           <img src="http://zlinaf.github.io/images/photo-teacherday1.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
         <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Teacher's day at fall 2026.</div>
@@ -31,7 +31,7 @@ redirect_from:
 
       <li class="glide__slide" style="text-align:center;">
         <a href="http://zlinaf.github.io/images/photo-groupdinner4.jpg" title="Group dinner5">
-          <img src="http://zlinaf.github.io/images/photo-groupdinner2026-1.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+          <img src="http://zlinaf.github.io/images/photo-groupdinner4.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
         <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Group dinner at fall 2026.</div>
       </li>
@@ -100,7 +100,7 @@ redirect_from:
       </li>
 
        <li class="glide__slide" style="text-align:center;">
-        <a href="http://zlinaf.github.io/images/photo-graduation2.jpg" title="graduation3">
+        <a href="http://zlinaf.github.io/images/photo-graduation3.jpg" title="graduation3">
           <img src="http://zlinaf.github.io/images/photo-graduation3.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
         <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Kuangxun Huang's postgraduate graduation ceremony.</div>
@@ -108,7 +108,7 @@ redirect_from:
 
       <li class="glide__slide" style="text-align:center;">
         <a href="http://zlinaf.github.io/images/photo-graduation4.jpg" title="graduation4">
-          <img src="http://zlinaf.github.io/images/photo-graduation3.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+          <img src="http://zlinaf.github.io/images/photo-graduation4.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
         <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Zhaoyang Wu's and Wentao Yang's postgraduate graduation ceremony.</div>
       </li>
