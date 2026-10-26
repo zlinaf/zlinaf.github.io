@@ -117,7 +117,7 @@ redirect_from:
         <a href="http://zlinaf.github.io/images/photo-graduation4.jpg" title="graduation4">
           <img src="http://zlinaf.github.io/images/photo-graduation4.jpg" style="width:100%; max-height:900px; height:auto; object-fit:contain; border-radius:4px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
         </a>
-        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Zhaoyang Wu's and Wentao Yang's postgraduate graduation ceremony.</div>
+        <div style="margin-top:8px; font-size:14px; color:#333; font-weight:bold;">Zhaoyang Wu's and Wentao Yang's undergraduate graduation ceremony.</div>
       </li>
 
       <li class="glide__slide" style="text-align:center;">
